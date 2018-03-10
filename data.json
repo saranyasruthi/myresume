@@ -1,0 +1,39 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"sruthi",
+    "phone":"9494731505",
+    "email":"saranyasruthi.a@gmail.com",
+    "Address":"(d/o) srinivasarao.addanki,prakasam dist,ap"
+  },
+  "education" :[{
+    "course":"btech(cse)",
+    "institute":"sir crr engg",
+    "data":["2015-2019","80%"]
+  },
+  {
+    "course":"inter(mpc)",
+    "institute":"sri gayatri",
+    "data":["2013-2015","95%"]
+  },
+  {
+    "course":"ssc",
+    "institute":"sri chaitanya",
+    "data":["2012-2013","97%"]
+  }
+],
+"skills":[{
+  "name":"languages",
+  "data":["c++","c","java"]
+},
+{
+"name":"web technologies",
+"data":["html","css"]
+},
+{
+  "name":"os",
+  "data":["windows","linux"]
+}
+
+  ]
+}
